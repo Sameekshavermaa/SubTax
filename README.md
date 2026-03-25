@@ -1,6 +1,10 @@
 # 💸 SubTax  
 ### Track the hidden tax on your life.
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ---
 
 ## 🚀 Live Demo  
@@ -10,7 +14,9 @@ https://sub-tax.vercel.app/
 
 ## 📸 Preview  
 
-![App Screenshot](https://github.com/Sameekshavermaa/SubTax/blob/17ab15bef6696876b0da3ac5e4a5a962ca4f2f79/Screenshot%202026-03-25%20at%2020.15.44.png)
+<p align="center">
+  <img src="./(https://github.com/Sameekshavermaa/SubTax/blob/17ab15bef6696876b0da3ac5e4a5a962ca4f2f79/Screenshot%202026-03-25%20at%2020.15.44.png" width="300"/>
+</p>
 
 
 ---
