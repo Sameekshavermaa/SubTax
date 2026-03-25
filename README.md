@@ -20,7 +20,7 @@ https://sub-tax.vercel.app/
 
 ![image alt](https://github.com/Sameekshavermaa/SubTax/blob/01bac5db094529a51eeaae4f8638006deb73b638/3.png)
 
-![image alt](https://github.com/Sameekshavermaa/SubTax/blob/87a001f73566a224fa96eae5b0e63a31540f5706/2.png)
+![image alt](https://github.com/Sameekshavermaa/SubTax/blob/9a12223a92cda8801c11ec75d5977f42e35c2716/5.png)
 
 ---
 
