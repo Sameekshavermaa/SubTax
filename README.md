@@ -10,9 +10,8 @@ https://sub-tax.vercel.app/
 
 ## 📸 Preview  
 
-![App Screenshot](./screenshots/preview.png)
+![App Screenshot](https://github.com/Sameekshavermaa/SubTax/blob/17ab15bef6696876b0da3ac5e4a5a962ca4f2f79/Screenshot%202026-03-25%20at%2020.15.44.png)
 
-> Replace this image with your actual screenshot (recommended: home screen + dashboard)
 
 ---
 
