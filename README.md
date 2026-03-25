@@ -14,6 +14,7 @@ https://sub-tax.vercel.app/
 
 ## 📸 Preview  
 
+![image alt](https://github.com/Sameekshavermaa/SubTax/blob/fe3f2485585ea8f1d5ff3cccb1e5ab8aaaff722f/1.png)
 
 ---
 
