@@ -16,6 +16,12 @@ https://sub-tax.vercel.app/
 
 ![image alt](https://github.com/Sameekshavermaa/SubTax/blob/fe3f2485585ea8f1d5ff3cccb1e5ab8aaaff722f/1.png)
 
+![image alt](https://github.com/Sameekshavermaa/SubTax/blob/87a001f73566a224fa96eae5b0e63a31540f5706/2.png)
+
+![image alt](https://github.com/Sameekshavermaa/SubTax/blob/87a001f73566a224fa96eae5b0e63a31540f5706/2.png)
+
+![image alt](https://github.com/Sameekshavermaa/SubTax/blob/87a001f73566a224fa96eae5b0e63a31540f5706/2.png)
+
 ---
 
 ## 🧠 The Idea  
