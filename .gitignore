@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+Frontend/node_modules/
+server/node_modules/
+
+# Environment variables (NEVER commit these)
+.env
+server/.env
+Frontend/.env
+
+# Build output
+Frontend/dist/
+Frontend/.vite/
+
+# OS junk
+.DS_Store
+*.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
